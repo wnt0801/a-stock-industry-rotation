@@ -1,0 +1,7 @@
+tushare
+akshare
+pandas
+numpy
+matplotlib
+seaborn
+akshare
