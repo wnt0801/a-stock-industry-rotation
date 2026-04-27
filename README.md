@@ -45,7 +45,7 @@ a-stock-industry-rotation/
 └── README.md
 
 ## 数据说明
-git push -u origin main
+git push -u origin maingit rm -r --cached .idea
 - 数据来源：AkShare，申万一级行业指数
 - 时间范围：2021年1月至2024年12月
 - 市场环境定义：沪深300指数20日滚动收益率 >5% 为上涨期，<-5% 为下跌期，其余为震荡期

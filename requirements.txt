@@ -1,7 +1,5 @@
-tushare
-akshare
-pandas
-numpy
-matplotlib
-seaborn
-akshare
+akshare==1.18.58
+pandas==2.2.3
+numpy==2.2.1
+matplotlib==3.10.0
+seaborn==0.13.2
